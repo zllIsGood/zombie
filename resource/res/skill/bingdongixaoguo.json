@@ -1,0 +1,224 @@
+{
+    "file": "bingdongixaoguo.png",
+    "mc": {
+        "bingdongixaoguo": {
+            "labels": [
+                {
+                    "end": 17,
+                    "frame": 1,
+                    "name": "Sprite"
+                }
+            ],
+            "frameRate": 20,
+            "frames": [
+                {
+                    "duration": 1,
+                    "y": -11,
+                    "res": "Sprite_0",
+                    "x": -11
+                },
+                {
+                    "duration": 1,
+                    "y": -11,
+                    "res": "Sprite_1",
+                    "x": -11
+                },
+                {
+                    "duration": 1,
+                    "y": -33,
+                    "res": "Sprite_2",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -33,
+                    "res": "Sprite_3",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_4",
+                    "x": -28
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_5",
+                    "x": -28
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_6",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_7",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_8",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_9",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_10",
+                    "x": -28
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_11",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_12",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_13",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -34,
+                    "res": "Sprite_14",
+                    "x": -27
+                },
+                {
+                    "duration": 1,
+                    "y": -38,
+                    "res": "Sprite_15",
+                    "x": -37
+                },
+                {
+                    "duration": 1,
+                    "y": -37,
+                    "res": "Sprite_16",
+                    "x": -35
+                }
+            ],
+            "events": []
+        }
+    },
+    "res": {
+        "Sprite_16": {
+            "x": 1,
+            "y": 80,
+            "w": 69,
+            "h": 75
+        },
+        "Sprite_9": {
+            "x": 174,
+            "y": 1,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_7": {
+            "x": 186,
+            "y": 70,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_5": {
+            "x": 231,
+            "y": 139,
+            "w": 55,
+            "h": 66
+        },
+        "Sprite_3": {
+            "x": 243,
+            "y": 69,
+            "w": 54,
+            "h": 66
+        },
+        "Sprite_1": {
+            "x": 76,
+            "y": 1,
+            "w": 22,
+            "h": 22
+        },
+        "Sprite_11": {
+            "x": 60,
+            "y": 157,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_13": {
+            "x": 72,
+            "y": 80,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_0": {
+            "x": 76,
+            "y": 25,
+            "w": 22,
+            "h": 22
+        },
+        "Sprite_10": {
+            "x": 117,
+            "y": 1,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_6": {
+            "x": 129,
+            "y": 70,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_15": {
+            "x": 1,
+            "y": 1,
+            "w": 73,
+            "h": 77
+        },
+        "Sprite_4": {
+            "x": 231,
+            "y": 1,
+            "w": 55,
+            "h": 66
+        },
+        "Sprite_12": {
+            "x": 174,
+            "y": 139,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_2": {
+            "x": 288,
+            "y": 1,
+            "w": 53,
+            "h": 65
+        },
+        "Sprite_8": {
+            "x": 117,
+            "y": 149,
+            "w": 55,
+            "h": 67
+        },
+        "Sprite_14": {
+            "x": 1,
+            "y": 157,
+            "w": 57,
+            "h": 69
+        }
+    }
+}

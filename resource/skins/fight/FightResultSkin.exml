@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="FightResultSkin" width="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="750">
+    <e:Rect left="0" right="0" top="0" bottom="0" fillAlpha="0.7" />
+    <e:Group width="1334" height="750" horizontalCenter="0" verticalCenter="0">
+        <e:Group id="grp" x="0" y="0" width="1334" height="750" />
+        <e:Image id="flower1" x="615" y="135" source="icon_flow_png" />
+        <e:Image id="flower2" x="480" y="170" source="icon_flow_png" />
+        <e:Image id="flower3" x="740" source="icon_flow_png" y="170" />
+        <ns1:BaseBtn id="closeBtn" label="" x="750" y="500" icon="btn_shouye_png" skinName="BaseBtnSkin" />
+        <ns1:BaseBtn id="retBtn" label="" x="475" y="500" skinName="BaseBtnSkin" icon="btn_zlyj_png" />
+    </e:Group>
+</e:Skin>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ProgressBar3Skin" width="277" height="48" xmlns:e="http://ns.egret.com/eui">
+    <e:Image verticalCenter="0" source="boder_jdd_png" />
+    <e:Image id="thumb" source="boder_jindt_png" x="10" verticalCenter="0.5" />
+    <e:Image x="-31" source="touxaing_png" verticalCenter="0.5" />
+    <!--<e:Label id="labelDisplay" textAlign="center" verticalAlign="middle" size="15" textColor="0x707070"
+                 horizontalCenter="0" verticalCenter="0" />
+    -->
+</e:Skin>
+

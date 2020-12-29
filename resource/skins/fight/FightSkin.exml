@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="FightSkin" width="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="750">
+    <e:Group width="1334" height="750" horizontalCenter="0" verticalCenter="0">
+        <e:Image id="bg" source="bg_png" x="0" y="0" />
+        <e:Image id="bg2" x="198" y="220" source="bg_static2_png" />
+        <e:Group id="mapGrp" x="0" y="0" width="1334" height="750"></e:Group>
+        <e:Image x="8" y="30" source="boder_dikuang_png" />
+        <e:Group x="292" y="28">
+            <e:Image x="0" y="0" source="boder_xxd_png" />
+            <e:Image id="heart1" x="10" y="5" source="icon_hongxing_png" />
+            <e:Image id="heart2" x="63.5" y="5" source="icon_hongxing_png" />
+            <e:Image id="heart3" x="117" y="5" source="icon_hongxing_png" />
+            <e:Image id="heart4" x="170.5" y="5" source="icon_hongxing_png" />
+            <e:Image id="heart5" x="224" y="5" source="icon_hongxing_png" />
+            <e:ProgressBar id="bar" x="376" y="0" skinName="ProgressBar3Skin" />
+            <e:Image id="flower1" x="431" y="-26" source="flower_png" />
+            <e:Image id="flower2" x="496" y="-26" source="flower_png" />
+            <e:Image id="flower3" x="561" y="-26" source="flower_png" />
+        </e:Group>
+        <e:Group id="wordGrp" x="18" y="42"></e:Group>
+    </e:Group>
+</e:Skin>
+

@@ -1,0 +1,22 @@
+{
+    "dg": [
+        {
+            "armature": "armature_shoushi",
+            "action": [
+                "shoushi"
+            ]
+        },
+        {
+            "armature": "armature_shengli",
+            "action": [
+                "shengli"
+            ]
+        },
+        {
+            "armature": "armature_shibai",
+            "action": [
+                "shibai"
+            ]
+        }
+    ]
+}

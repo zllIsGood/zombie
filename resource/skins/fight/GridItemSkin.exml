@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="GridItemSkin" width="120" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="120">
+    <e:Image id="quan" source="yqx_img_png" rotation="0" anchorOffsetX="59.5" anchorOffsetY="59.5" verticalCenter="0"
+             horizontalCenter="0" />
+    <e:Label id="lab" text="" horizontalCenter="0" verticalCenter="0" size="28" textAlign="center" />
+    <e:Image id="img" horizontalCenter="0" verticalCenter="0" source="" />
+</e:Skin>
+

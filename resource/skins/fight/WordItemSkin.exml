@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="WordItemSkin" width="171" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        xmlns:euiextension="euiextension.*" xmlns:ns1="*" height="130">
+    <e:Image id="bgImg" horizontalCenter="0" verticalCenter="0" source="boder_kapian_png" />
+    <e:Image id="selectImg" source="boder_xuanzhongk_png" horizontalCenter="0" verticalCenter="0" visible="false" />
+    <e:Label id="lab" text="" horizontalCenter="0" verticalCenter="0" size="28" textAlign="center" />
+    <e:Image id="img" horizontalCenter="0" verticalCenter="0" source="" />
+</e:Skin>
+
